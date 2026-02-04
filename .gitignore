@@ -35,6 +35,9 @@ env/
 # Environment
 .env
 .env.local
+.env.example
+.env.production
+.evv.production.example
 
 # Database
 *.db
